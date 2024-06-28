@@ -225,3 +225,11 @@ She ended up being more motivated to finish her work quickly and accurately, lea
     - Does the role excite the interviewee?
     - How well will this person perform in the capacity of cross-functional teamwork? This one is HUGE for them and its at the heart of the role. Their ideal candidate not only has the preferred qualifications, but knows how to capitalize on them to deliver customer value.
     - My only saving grace after this interview is if I can make it to the technical one and showcase how effectively I can problem solve.
+
+    # Next Steps & Tasks
+
+    - [ ] Infer what the technical demo interview is all about
+    - [ ] Watch the YT video of the product being used. Take notes, pause frequently to determine what each aspect of the system uses. Try to build a copycat prototype to showcase a deep technical understanding of how things are used.
+    - [ ] Finish reading the research paper on programmatic labeling.
+    - [ ] 
+ 
