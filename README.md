@@ -276,3 +276,11 @@ She ended up being more motivated to finish her work quickly and accurately, lea
 - ranking
 - labeling
 - augmenting
+
+# Migrated Product Notes
+
+I spent a considerable amount of time trying to determine what value Snorkel's original product provides over previous approaches where data scientists would otherwise use feature engineering and other methods of handling unlabeled data and here's what I've come to. The primary product value lies in that:
+
+### It decouples domain specific knowledge from the data scientists primary roles
+
+ Not all subject matter experts are capable of programming and not all data scientists can be expected to have a deep understanding of domain specific needs. There are plenty of data scientists out there, but what's exceedingly rare is to find somebody that has the necessary data science skills as well as the necessary domain knowledge. Do Snorkel's products and services address this by removing a level of responsibility that was originally placed on the data scientists so that they no longer have to act as an intermediary translating SME's needs into coded solutions? I can see some immediate value that this provides because I can speak from experience. In nearly all my past projects, whether they be AI and data scientist focused or software engineering related, the biggest hurdle to overcome was effectively understanding the project's needs and how to translate them into the required code. For example, on the NIST project, there was a lot of knowledge that required a deep understanding of atomic physics. While I had more than enough coding knowledge and data science focused skills, there were certain things I couldn't quite build quickly because I wouldn't know whether or not the things I was looking at were representative of the ground truth. Having the SME's handle the heuristic functions is a huge value point because it would allow data scientists to not be bogged down as much by unlabeled data.
