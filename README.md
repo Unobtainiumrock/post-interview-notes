@@ -229,13 +229,14 @@ She ended up being more motivated to finish her work quickly and accurately, lea
     - Does the interviewee realize to what extent this deviates from ML engineering or other stem roles? If so, are they okay with this?
     - Does the role excite the interviewee?
     - How well will this person perform in the capacity of cross-functional teamwork? This one is HUGE for them and its at the heart of the role. Their ideal candidate not only has the preferred qualifications, but knows how to capitalize on them to deliver customer value.
+    Its possible that they might have had a person fulfill the role at one point and that person backed out at some point because their expectations for the role differed from what the company offered.
 7. My only saving grace after this interview is if I can make it to the technical one and showcase how effectively I can problem solve.
 8. I prepared so much and talked with a friend about how a big part of solving a problem boiled down to incorrect assumptions being made within stakeholders processes and that locating these nearly always solved the problem at hand. So why didn't I mention this?
 9. I was asked about AGILE, but I hadn't been prepared for answering problems within the AGILE methodology framework. He was only doing this to try to help me get unstuck, but I ended up overthinking this because I was trying to recall some of its core principals. This didn't look good, so maybe I should brush up on this again and see which projects & experience best showcase this?
 10. Priyush gave a really great answer to my series of questions. He talked about how we can change certain aspects of a model and that might lead to a lower F1 score, but that it had other effects where parts were in closer agreement with human feedback and that this could be translated into terms that are of relevance to the business execs. What I really liked about this was that it not only answered my questions, but it stands out as an example of how I should strive to answer interview questions and share stories.
 11. It seems that this newly created role is being made to fulfill some of the roles and responsibilities that Priyush himself had to take on before. This was based on what he shared in the interview and what I saw on his LinkedIn. If I could do this over, I would have exhibited the characteristics in me that remind him of himself. We already have similarities in technical history pivotting towards less technically oriented roles --this was a missed opportunity..
 
-# Next Steps & Tasks
+# Next Steps & Tasks, etc.
 
 - [ ] Infer what the technical demo interview is all about
 - [ ] Watch the YT video of the product being used. Take notes, pause frequently to determine what each aspect of the system uses. Try to build a copycat prototype to showcase a deep technical understanding of how things are used.
@@ -246,4 +247,19 @@ She ended up being more motivated to finish her work quickly and accurately, lea
 - [ ] Both Matty and Priyush mentioned stuff like troubleshooting the deployment of models. Dig deeper into this. Figure out what kind of tooling might be involved during the demo interview.
 - [ ] Consider refreshing on AGILE development methodologies.
 - [ ] Good story telling doesn't have to be something you're naturally good at, practice this 30 minutes a day! Find a peer to tell a story to and ask for feedback. Be sure to incorporate the method of story gaps to garner interest and excitement!
-- [ ] 
+- [ ] Find the other aspects of the company structure. What other teams exist, what are each teams roles in the company.
+- [ ] Does this company have a bright future?
+- [ ] Determine how well they can weather through the innevitable decline to come when the AI hype dies down. Do they have any product resilience? What about customer loyalty?
+- [ ] It seems like they've recently come into some new waves of funding. How long can that funding sustain them for?
+- [ ] What is their sales velocity?
+- [ ] Is this company likely to be acquired at some point? 
+- [ ] Do they offer good compensation in the form of equity?
+
+
+# Migrated Notes on Company
+- CEO has a statement DWIT. Do whatever it takes. I tried this when it came to trying to preview the product.
+- Their product software license can run for as much at $400k
+- First points of contact for sales likely coordinate with technical teams to triage and/or find which leads are a best fit.
+- Object detection and image sementation have been shelved for now while the company focuses on other aspects of their product offering --image labeling is still offered.
+- There are 5 - 6 techncially oriented success managers
+- Some teams: customer success, platform, ML, success management.
