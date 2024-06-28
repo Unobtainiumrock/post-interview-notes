@@ -212,7 +212,7 @@ She ended up being more motivated to finish her work quickly and accurately, lea
 5. How often should you be having meetings?
 6. How will decisions be made?
 
-# Areas I Need to Improve/ Post Interview Notes
+# Areas I Need to Improve/ Post Interview Notess
 
 1. Practice better story telling by rehearsing in the mirror.
 2. Get better at not letting my nerves get to me or thinking my stories are inadequate. This prevented my from fully delivering them when it mattered most.
@@ -226,7 +226,9 @@ She ended up being more motivated to finish her work quickly and accurately, lea
     - How well will this person perform in the capacity of cross-functional teamwork? This one is HUGE for them and its at the heart of the role. Their ideal candidate not only has the preferred qualifications, but knows how to capitalize on them to deliver customer value.
     - My only saving grace after this interview is if I can make it to the technical one and showcase how effectively I can problem solve.
 7. I prepared so much and talked with a friend about how a big part of solving a problem boiled down to incorrect assumptions being made within stakeholders processes and that locating these nearly always solved the problem at hand. So why didn't I mention this?
-8. 
+8. I was asked about AGILE, but I hadn't been prepared for answering problems within the AGILE methodology framework. He was only doing this to try to help me get unstuck, but I ended up overthinking this because I was trying to recall some of its core principals. This didn't look good, so maybe I should brush up on this again and see which projects & experience best showcase this?
+9. Priyush gave a really great answer to my series of questions. He talked about how we can change certain aspects of a model and that might lead to a lower F1 score, but that it had other effects where parts were in closer agreement with human feedback and that this could be translated into terms that are of relevance to the business execs. What I really liked about this was that it not only answered my questions, but it stands out as an example of how I should strive to answer interview questions and share stories.
+10. It seems that this newly created role is being made to fulfill some of the roles and responsibilities that Priyush himself had to take on before. This was based on what he shared in the interview and what I saw on his LinkedIn. If I could do this over, I would have exhibited the characteristics in me that remind him of himself. We already have similarities in technical history pivotting towards less technically oriented roles --this was a missed opportunity..
 
 # Next Steps & Tasks
 
@@ -237,4 +239,6 @@ She ended up being more motivated to finish her work quickly and accurately, lea
 - [ ] Hash out and develop my story about helping a consulting firm during a client's re-org by introducing process automation. Really focus in on how I simplified this problem by nailing down clear definitions of what stakeholder's requirements are. I often found that when I ask clarifying questions that they realize where information was lacking.
 - [] To showcase the ability to dumb down really technical stuff into simpler to understand terms, I should practice verbalizing this in the mirror.
 - [ ] Both Matty and Priyush mentioned stuff like troubleshooting the deployment of models. Dig deeper into this. Figure out what kind of tooling might be involved during the demo interview.
+- [ ] Consider refreshing on AGILE development methodologies.
+- [ ] Good story telling doesn't have to be something you're naturally good at, practice this 30 minutes a day! Find a peer to tell a story to and ask for feedback. Be sure to incorporate the method of story gaps to garner interest and excitement!
 - [ ] 
