@@ -225,11 +225,16 @@ She ended up being more motivated to finish her work quickly and accurately, lea
     - Does the role excite the interviewee?
     - How well will this person perform in the capacity of cross-functional teamwork? This one is HUGE for them and its at the heart of the role. Their ideal candidate not only has the preferred qualifications, but knows how to capitalize on them to deliver customer value.
     - My only saving grace after this interview is if I can make it to the technical one and showcase how effectively I can problem solve.
+7. I prepared so much and talked with a friend about how a big part of solving a problem boiled down to incorrect assumptions being made within stakeholders processes and that locating these nearly always solved the problem at hand. So why didn't I mention this?
+8. 
 
-    # Next Steps & Tasks
+# Next Steps & Tasks
 
-    - [ ] Infer what the technical demo interview is all about
-    - [ ] Watch the YT video of the product being used. Take notes, pause frequently to determine what each aspect of the system uses. Try to build a copycat prototype to showcase a deep technical understanding of how things are used.
-    - [ ] Finish reading the research paper on programmatic labeling.
-    - [ ] 
- 
+- [ ] Infer what the technical demo interview is all about
+- [ ] Watch the YT video of the product being used. Take notes, pause frequently to determine what each aspect of the system uses. Try to build a copycat prototype to showcase a deep technical understanding of how things are used.
+- [ ] Finish reading the research paper on programmatic labeling.
+- [ ] Add into my project requirements gathering process that I create throrough markdown documentation with an estimated timeline laid out to the clients.
+- [ ] Hash out and develop my story about helping a consulting firm during a client's re-org by introducing process automation. Really focus in on how I simplified this problem by nailing down clear definitions of what stakeholder's requirements are. I often found that when I ask clarifying questions that they realize where information was lacking.
+- [] To showcase the ability to dumb down really technical stuff into simpler to understand terms, I should practice verbalizing this in the mirror.
+- [ ] Both Matty and Priyush mentioned stuff like troubleshooting the deployment of models. Dig deeper into this. Figure out what kind of tooling might be involved during the demo interview.
+- [ ] 
