@@ -212,10 +212,15 @@ She ended up being more motivated to finish her work quickly and accurately, lea
 5. How often should you be having meetings?
 6. How will decisions be made?
 
-# Areas I Need to Improve
+# Areas I Need to Improve/ Post Interview Notes
 
 1. Practice better story telling by rehearsing in the mirror.
 2. Get better at not letting my nerves get to me or thinking my stories are inadequate. This prevented my from fully delivering them when it mattered most.
 3. Its okay to read sections from my notes verbatim if I feel stuck. Do this next time!
 4. I planned to incorporate a shared whiteboard into my story telling, but didn't follow through with it. Stick to my plan in the moment next time.
-5. 
+5. Its not cool of me to go into the meeting and deliver sub-par story-telling and expect interviewers to spend more of their valuable time post-meeting going over docs I share with them. Maybe in addition to sharing a collaborative whiteboard, I can share my screen with them so they can see my preparation doc.
+6. The biggest recurring thing I've seen every interviewer thus far express concerns about is:
+    - How well does this role align with the interviewees goals?
+    - Does the interviewee realize to what extent this deviates from ML engineering or other stem roles? If so, are they okay with this?
+    - Does the role excite the interviewee?
+    - 
