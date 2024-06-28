@@ -223,4 +223,5 @@ She ended up being more motivated to finish her work quickly and accurately, lea
     - How well does this role align with the interviewees goals?
     - Does the interviewee realize to what extent this deviates from ML engineering or other stem roles? If so, are they okay with this?
     - Does the role excite the interviewee?
-    - 
+    - How well will this person perform in the capacity of cross-functional teamwork? This one is HUGE for them and its at the heart of the role. Their ideal candidate not only has the preferred qualifications, but knows how to capitalize on them to deliver customer value.
+    - My only saving grace after this interview is if I can make it to the technical one and showcase how effectively I can problem solve.
