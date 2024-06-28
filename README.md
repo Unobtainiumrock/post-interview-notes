@@ -85,7 +85,12 @@ I break this down into the following rough process:
 
 This will obviously get more complex as interractions potentially span many degrees of freedom away from one another and will have to be addressed in their own unique ways. 
 
-I felt that my stories regarding cross-functional work werent sufficient because of the low number of stakeholders and the minimal number of degrees of separation. This was why I stumbled a bit about story telling.
+I felt that my stories regarding cross-functional work werent sufficient for two reasons:
+
+1. I had a low number of stakeholders.
+2. There was a minimal number of degrees of separation between stakeholders.
+
+I stumbled during story telling because these concerned me. I felt that I should have given an example that was more complex in nature.
 
 # Story 1 Overview
 
@@ -237,7 +242,7 @@ She ended up being more motivated to finish her work quickly and accurately, lea
 - [ ] Finish reading the research paper on programmatic labeling.
 - [ ] Add into my project requirements gathering process that I create throrough markdown documentation with an estimated timeline laid out to the clients.
 - [ ] Hash out and develop my story about helping a consulting firm during a client's re-org by introducing process automation. Really focus in on how I simplified this problem by nailing down clear definitions of what stakeholder's requirements are. I often found that when I ask clarifying questions that they realize where information was lacking.
-- [] To showcase the ability to dumb down really technical stuff into simpler to understand terms, I should practice verbalizing this in the mirror.
+- [ ] To showcase the ability to dumb down really technical stuff into simpler to understand terms, I should practice verbalizing this in the mirror.
 - [ ] Both Matty and Priyush mentioned stuff like troubleshooting the deployment of models. Dig deeper into this. Figure out what kind of tooling might be involved during the demo interview.
 - [ ] Consider refreshing on AGILE development methodologies.
 - [ ] Good story telling doesn't have to be something you're naturally good at, practice this 30 minutes a day! Find a peer to tell a story to and ask for feedback. Be sure to incorporate the method of story gaps to garner interest and excitement!
