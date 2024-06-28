@@ -239,7 +239,7 @@ She ended up being more motivated to finish her work quickly and accurately, lea
 # Next Steps & Tasks, etc.
 
 - [ ] Infer what the technical demo interview is all about
-- [ ] Watch the YT video of the product being used. Take notes, pause frequently to determine what each aspect of the system uses. Try to build a copycat prototype to showcase a deep technical understanding of how things are used.
+- [ ] Watch the YT video of the product being used. Take notes, pause frequently to determine what each aspect of the system uses. Try to build a copycat prototype to showcase a deep technical understanding of how things are used.      
 - [ ] Finish reading the research paper on programmatic labeling.
 - [ ] Add into my project requirements gathering process that I create throrough markdown documentation with an estimated timeline laid out to the clients.
 - [ ] Hash out and develop my story about helping a consulting firm during a client's re-org by introducing process automation. Really focus in on how I simplified this problem by nailing down clear definitions of what stakeholder's requirements are. I often found that when I ask clarifying questions that they realize where information was lacking.
@@ -263,3 +263,16 @@ She ended up being more motivated to finish her work quickly and accurately, lea
 - Object detection and image sementation have been shelved for now while the company focuses on other aspects of their product offering --image labeling is still offered.
 - There are 5 - 6 techncially oriented success managers
 - Some teams: customer success, platform, ML, success management.
+- Enterprise data integration into LLMs is a big industry-wide push right now. Snorkel just recently announced the integration of chat gpt 4o.
+
+# Misc
+
+## Company Vocab w.r.t. Data
+
+- formatting
+- cleaning
+- slicing
+- filtering
+- ranking
+- labeling
+- augmenting
